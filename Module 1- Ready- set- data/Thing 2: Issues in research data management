@@ -1,0 +1,46 @@
+Thing 2: Issues in research data management
+
+23things_gettingstarted_big.jpg  Research data is for everyone. Governments and universities all around the US and the world are now encouraging and requiring researchers to better manage their data so others can use it.
+
+Research data might be critical to solving the big questions of our time, but so much data is being lost, is poorly managed, and/or described badly.
+
+    The following 4.40 mins cartoon put together by the New York University Health Sciences Library is about what happens when a researcher hasn’t managed their data (at all…) What could possibly go wrong!? 
+
+
+    As you watch the cartoon jot down the data management mistakes which interest or appall you.
+    Now, scan through the dot points in the Follow Best Practices  (Links to an external site.)Links to an external site.section of the RDCP website, which provides advice for researchers on how to manage their data.
+
+Consider: How do you think just ONE of the data disasters depicted in the cartoon could have been avoided?
+23things_learnmore_small  "Big Data" is a term we're hearing with increasing frequency. Data management for Big Data is very complex - citing dynamic data, software, high volume compute, storage costs, transfer of petabytes of data, preservation, provenance, and more.
+
+    Read this post (Links to an external site.)Links to an external site. and presentation titled: "Big Data: The 5Vs Everyone Must Know.
+
+    This article uses 5V's: volume, variety, velocity, veracity and value as a concept for how big data can be managed more successfully.
+
+Consider: Is the concept of 5Vs useful to support better management and reuse of “Big Data”? If you don't think 5Vs is of value, is there another framework or concept model which could be useful for exploring data management for big data?
+23things_challengeme_small  Laboratory Notebooks are used by researchers to formally record their research activities. As research has become increasingly digital and collaborative the utility of traditional hard copy Lab Notebooks has been challenged.  Not surprisingly then, eLab Notebooks (ELN) have emerged as an alternative.  Effective data management for constantly updated data, such as that within ELNs, is a real challenge for projects who wish to publish their data during the project.
+
+    Read this short definition (Links to an external site.)Links to an external site. of ELNs
+    Then read this article (Links to an external site.)Links to an external site.: International team of scientists open sources search for malaria cure about how an international team of scientists and citizen scientists are using open source ELNs to speed up a cure for malaria. You can see their open ELNs here (Links to an external site.)Links to an external site..  Click on Matthew Todd's ELN to see what it's in it.
+
+Consider: What is your view on a data management issues and possible solutions, where data is generated, stored and shared via an open ELN?
+
+Bonus Assignment: A researcher friend in your department gave you her research on a thumb drive and asked for feedback on making it sharable. She also mentioned to be careful because it’s her only copy. When you open up the research folder, called research project b, you find the following files.
+
+├── FINAL_rev.18.comments7.corrections9.MORE.05.doc
+├── FINAL_rev.6.COMMENTS.doc
+├── FINAL_rev.8.comments5.CORRECTIONS.doc
+├── data.xls
+├── data2.xls
+├── data3.dta
+├── fig1.jpg
+├── fig2.jpg
+├── fig3.jpg
+├── myresearch-3.do
+└── myresearchB.do
+
+    What would you suggest to your colleague to help improve the filenames she’s chosen?
+    What about the the file formats? Should she consider different formats?
+    What data backup strategies would you recommend?
+
+Add your responses to the discussion board listed below.
