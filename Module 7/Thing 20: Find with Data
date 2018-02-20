@@ -1,0 +1,50 @@
+23things_gettingstarted_big.jpg The importance of spatial data is ever increasing. Many of the societal challenges we face today such as food scarcity and economic growth, are inherently linked to big spatial data. In fact, it is often said that 80% of all research data has a geographic or spatial component. It’s useful then, for all of us to have an understanding of spatial data:
+
+    Start by watching this incredible, inspiring video (3.59min) about
+    University of Wollongong’s PetaJakata Data Sharing Project (Links to an external site.)Links to an external site.
+     It shows innovative ways of combining social media and geospatial data to save lives.
+    Now read Why GIS Mapping Technology is a Powerful Tool for Humanitarian Aid (Links to an external site.)Links to an external site..
+
+Just for fun: Search different locations in the Historical Map & Chart Collection (Links to an external site.)Links to an external site. by the NOAA, look at the dates of some of these historical maps. Which is your favorite map?
+
+23things_learnmore_small What data is available for my area?
+
+Many data portals offer a spatial search option for discovery of datasets. This can be a very powerful way to find a wealth of data about a particular location. Let’s look at a couple of examples:
+
+Option 1: Research Data Australia (cross-disciplinary)
+
+1. Go to Research Data Australia (Links to an external site.)Links to an external site. and choose Map Search from under the search box:
+T20-RDA
+2. Zoom in on a location in Australia and use the rectangle tool 2017-06-26_1655.pngat the top of the map to draw a search box around your chosen location. (Hint: choosing somewhere on the coast, such as the Newcastle area will give you a wider range of datasets.)
+3. Then click on the green Search button.
+4. Browse through your results and look at the list of provider organizations and subject headings for the records in your result set. (Hint: if you got mainly one sort of data, try making your search box bigger.)
+
+Option 2: CSIRO Data Access Portal (DAP) (mostly science related)
+
+We will use the Search by Location (Links to an external site.)Links to an external site. function in the CSIRO DAP.  We used the Los Angeles area in California and we got over 100 datasets!
+
+    Zoom in to an area you are interested in.
+    Click on the Draw Area tab at the top of the map and draw an area box.
+    Hit the SEARCH button.
+    Look over your search results to understand the amazing work of CSIRO.
+
+23things_challengeme_small There are many types and sources of geospatial data. And there are many tools you can use to manipulate and display spatial data.
+
+If you’re new to the world of geospatial data, you’ll probably appreciate some "busting" the jargon of geospatial data:
+
+    Start by reading this blog post on Finding and Making Sense of Geospatial Data on the Internet (Links to an external site.)Links to an external site. which explains some basic geospatial data file formats and concepts.
+    Browse down this blog post Using Open Source GIS tools for spatial data – QGIS, GDAL and Python (Links to an external site.)Links to an external site. which talks about open source tools for manipulating geospatial data.
+
+Ready to get hands on?
+
+Option 1: 13 Free GIS Software Options: Map the World in Open Source
+
+Browse through 13 Free GIS Software Options: Map the World in Open Source (Links to an external site.)Links to an external site. to get ideas for free, open source geospatial software - the descriptions often include discipline-specific advice. Download one and get your hand dirty at mapping.
+
+Option 2: Spatial data visualization with R
+
+For those who have done the R modules in Software or Data Carpentry - this might be a good activity to flex your R muscles (Links to an external site.)Links to an external site.! (note: you need to scroll down to get to the tutorial.)
+
+Option 3: Create a map using Google Fusion Tables
+
+This offers lots of features, but you'll need a google account. The excellent Google Fusion tutorial (Links to an external site.)Links to an external site. uses butterfly data to show you how to import data, map the data, and customize your map.
