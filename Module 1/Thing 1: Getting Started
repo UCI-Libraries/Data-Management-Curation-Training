@@ -5,22 +5,22 @@
 
 Research data can be:
 
-    Observational: Captured in real-time, typically outside the lab
+    * Observational: Captured in real-time, typically outside the lab
         Examples: Sensor readings, survey results, images, audio, video
-    Experimental: Typically generated in the lab or under controlled conditions
+    * Experimental: Typically generated in the lab or under controlled conditions
         Examples: test results, clinical trials, field experiments in international development
-    Simulation: Machine generated from test models
+    * Simulation: Machine generated from test models
         Examples: climate models, economic models
-    Derived /Compiled: Generated from existing datasets
+    * Derived /Compiled: Generated from existing datasets
         Examples: text as data (data mining), compiled database, 3D models
 
 Research data come in many formats:
 
-    Text: field or laboratory notes, survey responses
-    Numeric: tables, counts, measurements
-    Audiovisual: images, sound recordings, video, models, computer code, geospatial data
-    Discipline-specific: FITS in astronomy, CIF in chemistry, FASTA files in bioinformatics
-    Instrument-specific: equipment outputs
+    * Text: field or laboratory notes, survey responses
+    * Numeric: tables, counts, measurements
+    * Audiovisual: images, sound recordings, video, models, computer code, geospatial data
+    * Discipline-specific: FITS in astronomy, CIF in chemistry, FASTA files in bioinformatics
+    * Instrument-specific: equipment outputs
 
     Go to one of the following links and examine the metadata page about a dataset:
         <a href="https://dash.lib.uci.edu/stash/dataset/doi:10.7280/D1001P">Oak Woodland Monitoring for the Irvine Open Space Easements</a> - The research data collected describes the status of mature oak trees, assesses recruitment, describes understory vegetation, and  the design of a monitoring program.
