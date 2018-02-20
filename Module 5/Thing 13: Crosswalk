@@ -1,0 +1,33 @@
+23things_gettingstarted_big.jpg We learned in Thing 11 that lots of metadata schemas exist to support different data types and disciplines. There are times when metadata created in one schema will need to be transformed or crosswalked to another so that metadata can be shared between systems and is more discoverable:
+
+1. Read the Wikipedia article Schema crosswalk (Links to an external site.)Links to an external site..
+
+2. Now we’ll look at an example of a metadata record that has been crosswalked to comply with different metadata standards so it can be found in various repositories:
+
+    First look at this CSIRO record (Links to an external site.)Links to an external site.. It was created to comply with the ISO 19115 standard (Links to an external site.)Links to an external site. for describing geospatial data.
+    In a new window in your browser, take a look at how the metadata for this same record has been transformed (or crosswalked) so it complies with different metadata standards and systems. This is the same record as it appears in the CSIRO Data Access Portal (Links to an external site.)Links to an external site..
+    And the same record again after it was crosswalked for Research Data Australia (Links to an external site.)Links to an external site..
+
+23things_learnmore_small Let’s map schema!
+
+Mapping and crosswalking metadata from one schema to another enables metadata harvesting and sharing between systems.
+
+1. Crosswalks are easiest seen in a table or a spreadsheet format. Take a look at this example (Links to an external site.)Links to an external site. of a Dublin Core (DC) <-> Data Documentation Initiative (DDI) crosswalk table.
+
+2. Time to get hands on!
+
+    Start by choosing any existing metadata record to work with.  Here’s an example (Links to an external site.)Links to an external site.. This will be your “source” record.
+    Copy the table from the DC <-> DDI crosswalk (Links to an external site.)Links to an external site. above into Word or Excel.  
+    Can you create a high level metadata mapping from your source record to Dublin Core? The 15 DC Dublin Core (Simple) metadata set explained in more detail (Links to an external site.)Links to an external site..
+
+Don’t worry if you don’t have time to complete the entire record - just get a feel for the process.
+
+23things_challengeme_small Hands on with XML!
+
+This activity will provide an interactive introduction to XSLT using a free online tool.
+
+Many well-known metadata standards are expressed in XML format, including MARC, Dublin Core, MODS, METS, EAD, RIF-CS, and others. The flexible structure of XML makes it possible to convert data from one metadata standard to another using an XSLT. XSLT (Extensible Stylesheet Language Transformations) is a language for transforming XML documents into other XML documents:
+
+1. Start by having a look at some of the crosswalks (Links to an external site.)Links to an external site. developed for, and by ANDS, for ingesting records into Research Data Australia.
+
+2. Go to the free online tool XSLT Test Tool (Links to an external site.)Links to an external site.. Follow the steps in the exercise below to create, edit, and display XML - 23 Things - Technical Crosswalk Exercise (Links to an external site.)Links to an external site.
