@@ -1,0 +1,24 @@
+23things_gettingstarted_big.jpg In addition to selecting a metadata standard or schema, whenever possible you should also use a controlled vocabulary. A controlled vocabulary provides a consistent way to describe data - location, time, place name, subject.
+
+Controlled vocabularies significantly improve data discovery. It makes data more shareable with researchers in the same discipline because everyone is ‘talking the same language’ when searching for specific data, e.g., plants, animals, medical conditions, places, etc.
+
+1. Start by browsing Controlling your Language: a Directory of Metadata Vocabularies (Links to an external site.)Links to an external site. from JISC in the UK. Make sure you scroll down to 5. Conclusion - it’s worth a read.
+
+2. We are going to see some controlled vocabularies in action in the Atlas of Living Australia:
+
+    We are going to use Browse Datasets (Links to an external site.)Links to an external site.: type magpie in the search box.
+    Choose your favourite magpie species and click on the (red text) View record link.
+    Any metadata field where you see Supplied... tells you that the information supplied by the person who submitted the record (often a 'citizen scientist') has been changed to the controlled vocabulary being used in that metadata field, e.g., Basis of Record, Observer, Record date, State or territory, etc.
+
+If you have time: Browse the Monarch Initiative (Links to an external site.)Links to an external site. where they have developed the Human Phenotype Ontology (HPO), a vocabulary to describe human disease features (phenotypes).
+
+23things_learnmore_xsmall_dark.png Think about (or find out) what standard vocabularies are used, or could be used, by research groups in a discipline which interests you. Note that there may be more than one vocabulary used in a discipline.
+
+1. Choose a vocabulary and determine if it would be of use to people working in a specific field. Try JISC’s Directory of Metadata Vocabularies (Links to an external site.)Links to an external site. or University of North Carolina’s Metadata Tutorial (Links to an external site.)Links to an external site. to browse for discipline and general vocabularies.
+
+2. Library of Congress Thesauri and Controlled Vocabularies is a service that help you find, access, and reuse vocabularies for research. Go to the Library of Congress Thesauri website (Links to an external site.)Links to an external site. and see if your chosen vocabulary is included.
+
+23things_challengeme_xs.png The Science Keyword Aggregator (KWA) has been developed by CSIRO (Links to an external site.)Links to an external site. and released as open source to allow others to adapt and reuse. It is a service that allows users to search for defined keywords across a range of managed vocabularies. A widget that uses the service is also available for system owners to embed in their application and thus provide a term search there:
+
+1. Start by viewing the metadata record (Links to an external site.)Links to an external site. describing KWA. Note the rich description, e.g., links to the source code (under Files) and related materials.
+2. Then take a look at the service documentation (Links to an external site.)Links to an external site. for the KWA web service.
