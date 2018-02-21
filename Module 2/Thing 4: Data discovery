@@ -1,26 +1,26 @@
-23things_gettingstarted_big.jpg  Repositories enable discovery of data by publishing data descriptions (“metadata”) about the data they hold - like a library catalogue describes the materials held in a library. Most repositories provide access to the data itself, but not always.
+**Getting Started** Repositories enable discovery of data by publishing data descriptions (“metadata”) about the data they hold - like a library catalogue describes the materials held in a library. Most repositories provide access to the data itself, but not always.
 
-    Harvard Dataverse (Links to an external site.)Links to an external site. is both an open source research data repository software and a repository hosted by Harvard’s Institute for Quantitative Social Science.
-    Click on this Dataverse record: Replication Data for: What Are The Headwaters of Formal Savings? Experimental Evidence from Sri Lanka (Links to an external site.)Links to an external site. Have a close look at the record to see the ways this record is made discoverable and accessible. Note how many times this dataset has been downloaded and how to cite this data. We will look at data citation in more detail in Thing 7.
+    * Harvard Dataverse (https://dataverse.harvard.edu/). is both an open source research data repository software and a repository hosted by Harvard’s Institute for Quantitative Social Science.
+    * Click on this Dataverse record: Replication Data for: What Are The Headwaters of Formal Savings? Experimental Evidence from Sri Lanka (http://dx.doi.org/10.7910/DVN/DGTAKN). Have a close look at the record to see the ways this record is made discoverable and accessible. Note how many times this dataset has been downloaded and how to cite this data. We will look at data citation in more detail in Thing 7.
 
 Spend a few minutes exploring Dataverse:
-
-    Try browsing or searching on a topic of interest
-    See which institutions contribute records.
-    Explore a record or two in depth.
+    * Try browsing or searching on a topic of interest
+    * See which institutions contribute records.
+    * Explore a record or two in depth.
 
 Data portals or aggregators draw together research data records from a number of repositories. In the discussion board discuss what would be the future impact of having a national research data catalog?
-23things_learnmore_small  Consider one idea for how you think improved discovery of research data repositories, and the data records they contain, could be achieved. What data repositories exist and how are American researchers sharing their data?
 
-    Start by going to re3data.org (Links to an external site.)Links to an external site.
-    Click on Browse > By Subject > click on a subject in the hierarchy
-    Look for a repository in your subject area and note what you find
+**Learn More** Consider one idea for how you think improved discovery of research data repositories, and the data records they contain, could be achieved. What data repositories exist and how are American researchers sharing their data?
+
+    1. Start by going to re3data.org (http://www.re3data.org/).
+    2. Click on Browse > By Subject > click on a subject in the hierarchy
+    3. Look for a repository in your subject area and note what you find
 
 Consider one idea for how you think improved discovery of research data repositories, and the data records they contain, could be achieved.
 
-23things_challengeme_small What makes a “good” data repository? There is much debate about Trusted Repositories and other ways of evaluating repositories - including data repositories. Have a look at one or both of the resources below
+**Challenge Me** What makes a “good” data repository? There is much debate about Trusted Repositories and other ways of evaluating repositories - including data repositories. Have a look at one or both of the resources below
 
-    DCC checklist for evaluating data repositories (Links to an external site.)Links to an external site.
-    COINAtlantic Data Accessibility Benchmark tool (Links to an external site.)Links to an external site.
+    * DCC checklist for evaluating data repositories (http://www.dcc.ac.uk/resources/how-guides-checklists/where-keep-research-data/where-keep-research-data)
+    * COINAtlantic Data Accessibility Benchmark tool (http://coinatlantic.tools/cdast/).
 
 What are your experiences or thoughts on evaluating data repositories: have you used either or both of these resources? Would you?
