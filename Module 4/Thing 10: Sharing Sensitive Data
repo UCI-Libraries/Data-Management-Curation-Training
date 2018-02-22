@@ -1,44 +1,42 @@
-23things_gettingstarted_big.jpg Major, familiar, categories of sensitive data are Human data (eg health and personal data, secret or sacred practices); or Ecological data (may place vulnerable species at risk).
+**Getting Started** Major, familiar, categories of sensitive data are Human data (eg health and personal data, secret or sacred practices); or Ecological data (may place vulnerable species at risk).
 
 Given the nature of this type of data, you might expect that it can’t be shared and reused. But in many cases, it can be.
 
-    Read this article  (Links to an external site.)Links to an external site.about the differences between a “limited data set” and “de-identified data”.
+    * Read this article (http://www.healthinfolaw.org/sites/default/files/article-files/Myth%20Busters%20Limited%20Data%20Set%20and%20Deidentified%20Data_11.7.13.pdf) about the differences between a “limited data set” and “de-identified data”.
 
 How do you share and publish sensitive data?
 
-    Scan the ANDS sensitive data (Links to an external site.)Links to an external site. webpage.
-    Click on the Sensitive Data Decision Tree image below to get an overview of issues and solutions.
-    Sensitive data tree
+    * Scan the ANDS sensitive data (http://www.ands.org.au/working-with-data/sensitive-data/sharing-sensitive-data) webpage.
+    * Click on the Sensitive Data Decision Tree image below to get an overview of issues and solutions. Sensitive data tree (http://www.ands.org.au/__data/assets/image/0005/385358/sensitive-data-decision-tree.png)
 
-Consider:
+Consider: Imagine you are either a researcher or a participant in a health data survey:
 
-Imagine you are either a researcher or a participant in a health data survey:
+    * Participant: what questions might you first ask the researcher about intended sharing and reuse of the survey data?
+    * Researcher: What responses would you need to prepare to anticipate participants' questions about publishing “their data for all the world to see”?
 
-    Participant: what questions might you first ask the researcher about intended sharing and reuse of the survey data?
-    Researcher: What responses would you need to prepare to anticipate participants' questions about publishing “their data for all the world to see”?
+**Learn More** How we manage sensitive data through its lifecycle and who has a role in ensuring sensitive data is appropriately managed and shared are critical issues in ensuring sensitive data can be shared.
 
-23things_learnmore_xsmall_dark.png How we manage sensitive data through its lifecycle and who has a role in ensuring sensitive data is appropriately managed and shared are critical issues in ensuring sensitive data can be shared.
+Open Guidelines for the Ethical Use of Digital Data in Human Research (https://www.carltonconnect.com.au/wp-content/uploads/2015/06/Ethical-Use-of-Digital-Data.pdf) (produced by Melbourne University and the Carlton Connect Initiative).
 
-Open Guidelines for the Ethical Use of Digital Data in Human Research (Links to an external site.)Links to an external site. (produced by Melbourne University and the Carlton Connect Initiative).
-
-    Start by reading the introduction
-    Take a closer look Data governance and custodianship on pp15-16
-    Consider your responses to the questions on p16
-    If you have time: scan through the rest of the comprehensive document.
+    * Start by reading the introduction
+    * Take a closer look Data governance and custodianship on pp15-16
+    * Consider your responses to the questions on p16
+    * If you have time: scan through the rest of the comprehensive document.
 
 Consider: What are your thoughts on the role of data gatekeepers, especially for sensitive data? What skills and knowledge do we need to protect sensitive data?
-23things_challengeme_xs.png Anonymization is a process that balances the risks of producing safe data with maintaining useful data. When anonymization is done well the risk of disclosing information referring to individuals should be negligible.
 
-    Names of people: describe according to significance to the respondent: ‘female / male friend’, ‘mother’, ‘father’, ‘teacher’ etc.
-    Names of towns/cities/villages: describe according to the significance of the place to the respondent’s life: ‘city she grew up in’, ‘town he moved to’, ‘small neighboring village’.
-    Name of country: describe according to part of world or perhaps ‘country regularly visited by backpackers’, if relevant.
-    Name of school/college: ‘high school she attended’ etc.
-    Name of workplace: describe more generally e.g. ‘fast food restaurant’, ‘pub’, ‘shop’, ‘factory’ etc. When it comes to descriptions of departments in companies or particular sections of a workplace, use ‘department’ or ‘section’.
-    Nationalities: in close knit communities, talk of a different and specific nationality may easily disclose identity e.g. ‘the Americans who took over the pub’. Suggest these be changed to ‘people’.
-    School subjects – to be changed at discretion of anonymizer and possibly in consultation with respondents, especially young persons.
+**Challenge Me** Anonymization is a process that balances the risks of producing safe data with maintaining useful data. When anonymization is done well the risk of disclosing information referring to individuals should be negligible.
+
+    * Names of people: describe according to significance to the respondent: ‘female / male friend’, ‘mother’, ‘father’, ‘teacher’ etc.
+    * Names of towns/cities/villages: describe according to the significance of the place to the respondent’s life: ‘city she grew up in’, ‘town he moved to’, ‘small neighboring village’.
+    * Name of country: describe according to part of world or perhaps ‘country regularly visited by backpackers’, if relevant.
+    * Name of school/college: ‘high school she attended’ etc.
+    * Name of workplace: describe more generally e.g. ‘fast food restaurant’, ‘pub’, ‘shop’, ‘factory’ etc. When it comes to descriptions of departments in companies or particular sections of a workplace, use ‘department’ or ‘section’.
+    * Nationalities: in close knit communities, talk of a different and specific nationality may easily disclose identity e.g. ‘the Americans who took over the pub’. Suggest these be changed to ‘people’.
+    * chool subjects – to be changed at discretion of anonymizer and possibly in consultation with respondents, especially young persons.
 
 Techniques and tools for anonymization
 
-    Consider the different techniques required to de-identify quantitative and qualitative data. The UK data service has information on anonymization  (Links to an external site.)Links to an external site.of both.
+    * Consider the different techniques required to de-identify quantitative and qualitative data. The UK data service has information on anonymization  (https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation) of both.
 
 Consider: What are other some tools or resources you would recommend that could help a researcher de-identify or anonymize their data.
