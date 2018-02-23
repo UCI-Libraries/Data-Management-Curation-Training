@@ -1,7 +1,9 @@
 
 UCI Library Data Management & Curation Training
 
-We wish to acknowledge Helene Blowers who created the original 23 Things (2006) and Michael Witt who developed 23 Things: Libraries for Research data (Links to an external site.)Links to an external site. (2015), the Australian National Data Service (ANDS) (Links to an external site.)Links to an external site., who created their 23 (research data) Things (Links to an external site.)Links to an external site. program in 2016, and the UCSD Libraries' 23 (Research Data) Things (Links to an external site.)Links to an external site. which they shared at the CA Data librarians meeting. This version is based primarily on the ANDS version and some on the UCSD Libraries version with original content included.
+We wish to acknowledge Helene Blowers who created the original 23 Things (2006) and Michael Witt who developed <a href="https://www.rd-alliance.org/23-things-libraries-research-data-rdas-libraries-research-data-interest-group.html">23 Things: Libraries for Research Data</a> (2015), the Australian National Data Service (ANDS), who created their <a href="http://www.ands.org.au/working-with-data/skills/23-research-data-things">23 (research data) Things</a> program in 2016, and the <a href="https://ucsdlib.github.io/23-Research-Data-Things/">UCSD Libraries' 23 (Research Data) Things</a> which they shared at the CA Data librarians meeting. The UCI Libraries version is based primarily on the ANDS version and some on the UCSD Libraries version with original content included.  We used the free version of Canvas to create an asychronous 8 week data training for library staff. 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 Research data comes in many shapes and sizes. Kick off your research data journey and start sharing your stories.
 
