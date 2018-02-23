@@ -1,12 +1,14 @@
 
 UCI Library Data Management & Curation Training
 
+We wish to acknowledge Helene Blowers who created the original 23 Things (2006) and Michael Witt who developed 23 Things: Libraries for Research data (Links to an external site.)Links to an external site. (2015), the Australian National Data Service (ANDS) (Links to an external site.)Links to an external site., who created their 23 (research data) Things (Links to an external site.)Links to an external site. program in 2016, and the UCSD Libraries' 23 (Research Data) Things (Links to an external site.)Links to an external site. which they shared at the CA Data librarians meeting. This version is based primarily on the ANDS version and some on the UCSD Libraries version with original content included.
+
 Research data comes in many shapes and sizes. Kick off your research data journey and start sharing your stories.
 
-    Getting started is for you if you are just beginning to learn about research data
-    Learn more is if you know a bit but want to know more
-    Challenge me is often more technical or assumes that you are familiar with at least the basics of managing and wrangling research data.
-
+    * Getting started is for you if you are just beginning to learn about research data
+    * Learn more is if you know a bit but want to know more
+    * Challenge me is often more technical or assumes that you are familiar with at least the basics of managing and wrangling research data.
+    
 Do I have to do them all? No - you can pick'n'mix a different stream each week, or stay in one stream. See what Thing 1 has in store for you!
 
 We wish to acknowledge Helene Blowers who created the original 23 Things (2006) and Michael Witt who developed 23 Things: Libraries for Research data (Links to an external site.)Links to an external site. (2015), the Australian National Data Service (ANDS) (Links to an external site.)Links to an external site., who created their 23 (research data) Things (Links to an external site.)Links to an external site. program in 2016, and the UCSD Libraries' 23 (Research Data) Things (Links to an external site.)Links to an external site. which they shared at the CA Data librarians meeting. This version is based primarily on the ANDS version and some on the UCSD Libraries version with original content included.
