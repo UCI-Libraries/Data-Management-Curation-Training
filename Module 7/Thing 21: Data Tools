@@ -1,41 +1,39 @@
-23things_gettingstarted_big.jpg Data horror stories: how did it happen!? Why is "clean” data important? Public policy, changes to medical protocols, and economic decisions all depend on accurate and complete data. Thing 21 looks at the why and what of “dirty data.”
+**Getting Started** Data horror stories: how did it happen!? Why is "clean” data important? Public policy, changes to medical protocols, and economic decisions all depend on accurate and complete data. Thing 21 looks at the why and what of “dirty data.”
 
-    Start out by looking at one of our own data files: faculty-interactions-items.xlsxPreview the document.  If you wanted to do a presentation using this information that detailed what schools utilize your services or if your consultations were with faculty, staff, or students, could you do that with the data available?
-    How does data get dirty in the first place? This 5-min short video (Links to an external site.)Links to an external site. from the ASPCA (American Society for Prevention of Cruelty to Animals) shows simply how incomplete, inaccurate data can occur. You can imagine how the resultant problems would multiply exponentially the bigger the dataset.
-    Browse down the Bad Data Guide (Links to an external site.)Links to an external site.'s list of commonly encountered data quality issues (with possible solutions). This list is aimed at journalists but it shows who is responsible for cleaning up dirty data.
+    1. Start out by looking at one of our own data files: faculty-interactions-items.xlsx (https://canvas.instructure.com/courses/1135313/files/52568066/download?wrap=1).  If you wanted to do a presentation using this information that detailed what schools utilize your services or if your consultations were with faculty, staff, or students, could you do that with the data available?
+    2. How does data get dirty in the first place? This 5-min short video (http://aspcapro.org/resource/saving-lives-research-data/gis-video-what-makes-data-dirty) from the ASPCA (American Society for Prevention of Cruelty to Animals) shows simply how incomplete, inaccurate data can occur. You can imagine how the resultant problems would multiply exponentially the bigger the dataset.
+    Browse down the Bad Data Guide's (https://github.com/Quartz/bad-data-guide) list of commonly encountered data quality issues (with possible solutions). This list is aimed at journalists but it shows who is responsible for cleaning up dirty data.
 
 Click into a few of the causes and solutions to dirty data - many of us contribute information to reports or do our home accounts in spreadsheets, and maybe it’s time to think about how clean our own data is!
 
-If you have time: For a quick guide to working with spreadsheets, check out one of the School of Data’s Data Fundamentals modules (Links to an external site.)Links to an external site.. The modules use real data from, e.g., the World Bank.
+If you have time: For a quick guide to working with spreadsheets, check out one of the School of Data’s Data Fundamentals modules (https://schoolofdata.org/courses/#DataFundamentals). The modules use real data from, e.g., the World Bank.
 
-23things_learnmore_smallHow often have you found some data that looks interesting, but they’re in PDFs or on a webpage… How do you get the data into spreadsheets so you can work with them?
+**Learn More** How often have you found some data that looks interesting, but they’re in PDFs or on a webpage… How do you get the data into spreadsheets so you can work with them?
 
 The School of Data has fantastic, easy-to-follow tutorials on working with real data.
 
-Option 1: Let’s start extracting tabular data from text-based PDFs. The Extracting Data From PDFs (Links to an external site.)Links to an external site. module provides a brief overview of the different techniques used to extract data from PDFs, with a focus on introducing Tabula, a free open-source tool built for this specific task:
+Option 1: Let’s start extracting tabular data from text-based PDFs. The Extracting Data From PDFs (http://schoolofdata.org/extracting-data-from-pdfs/) module provides a brief overview of the different techniques used to extract data from PDFs, with a focus on introducing Tabula, a free open-source tool built for this specific task:
 
-    Get ready - go to Extracting Data From PDFs (Links to an external site.)Links to an external site. and download the correct version of Tabula for your operating system and java runtime if required. (Note: you can check out a laptop at the MRC to complete this item.)
-    Work through as much of the Tabula tutorial as you can and remember this tutorial for the next time you get a PDF with valuable (and hard-to-extract) data!
+    1. Get ready - go to Extracting Data From PDFs (Lhttp://schoolofdata.org/extracting-data-from-pdfs/) and download the correct version of Tabula for your operating system and java runtime if required. (Note: you can check out a laptop at the MRC to complete this item.)
+    2. Work through as much of the Tabula tutorial as you can and remember this tutorial for the next time you get a PDF with valuable (and hard-to-extract) data!
 
 Option 2: As much as we wish everything was available in CSV or the format of our choice, most data on the web is published in different forms. How do you extract data from HTML? Use a Scraper!
 
-    Go to Making data on the web useful: scraping (Links to an external site.)Links to an external site.
-    Follow the two "recipes" to learn code-free Scraping in 5-10 minutes using Google Spreadsheets & Google Chrome. (Note: Use the Google Chrome Extension “Scraper, by dvhtn”)
+    1. Go to Making data on the web useful: scraping (http://schoolofdata.org/handbook/courses/scraping/).
+    2. Follow the two "recipes" to learn code-free Scraping in 5-10 minutes using Google Spreadsheets & Google Chrome. (Note: Use the Google Chrome Extension “Scraper, by dvhtn”)
 
-If you have time or just love data dabbling: Extracting data from PDFs will inevitably result in some dirty data creeping into your dataset. The School of Data have some really interesting Data Cleansing modules (Links to an external site.)Links to an external site..
+If you have time or just love data dabbling: Extracting data from PDFs will inevitably result in some dirty data creeping into your dataset. The School of Data have some really interesting Data Cleansing modules (https://schoolofdata.org/courses/#IntroDataCleaning).
 
-23things_challengeme_small OpenRefine (formerly Google Refine) is a valuable open source tool that is similar to Excel but more powerful. You can use it to: record data; manipulate data; clean up dirty data; and to transform datasets.
+**Challenge Me** OpenRefine (formerly Google Refine) is a valuable open source tool that is similar to Excel but more powerful. You can use it to: record data; manipulate data; clean up dirty data; and to transform datasets.
 
 Option 1: If you are new to OpenRefine
 
-    Start by watching
-    introduction to OpenRefine (Links to an external site.)Links to an external site.
-    (6 .48 min) to learn how it can be used to clean up messy data.
-    Now get hands on! You will need to download OpenRefine and the dataset for this activity, either ask OIT to install for you or check out a laptop from the MRC. Work your way through this tutorial (Links to an external site.)Links to an external site. as much as you can. The sections covering Facets and Transforming Values will give you a flavor for what the OpenRefine tool offers.
+    1. Start by watching introduction to OpenRefine (https://youtu.be/B70J_H_zAWM) (6 .48 min) to learn how it can be used to clean up messy data.
+    2. Now get hands on! You will need to download OpenRefine and the dataset for this activity, either ask OIT to install for you or check out a laptop from the MRC. Work your way through this tutorial (http://www.andrewbatran.com/datastorytelling/openrefine/) as much as you can. The sections covering Facets and Transforming Values will give you a flavor for what the OpenRefine tool offers.
 
 Option 2: If you’re already familiar with OpenRefine and might be ready to share what you know
 
 Examine the lesson materials used to teach OpenRefine in either:
 
-    OpenRefine in Library Carpentry (Links to an external site.)Links to an external site.
-    OpenRefine in Data Carpentry for Ecology  (Links to an external site.)
+    1. OpenRefine in Library Carpentry (https://github.com/LibraryCarpentry/week-four-library-carpentry/blob/master/lesson-materials/Basic-OpenRefine-functions-I.md)
+    2. OpenRefin in Data Carpentry for Ecology (http://www.datacarpentry.org/OpenRefine-ecology-lesson/)
